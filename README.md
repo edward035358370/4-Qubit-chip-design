@@ -27,7 +27,7 @@ There are two plot function with well labeled function in PlotTool.py .
 For more easier to see the qubit reflection with different parameters and give the offset to the Mag2D plot.
 I give the cursor when we plot it, but still don't know how to plot with cursor by calling function way.
 # TrackNode.py
-We set three qubit at different distance between mirror. For both qubit can be at the node and the other can be at the antinode.
+We set three qubit have different distance between mirror. For both qubit can be at the node and the other can be at the antinode.
 This code use the not efficient way but working way to get the three qubit distance components.
 # tkinter_plot.py
 choose the first qubit distance between mirror,  and choose the next distance for next qubit.
